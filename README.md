@@ -65,6 +65,9 @@ The dashboard enables stakeholders to monitor sales trends, identify top-perform
 https://app.powerbi.com/groups/me/reports/8099c62a-77d1-4e6c-a862-e642c2d22819?experience=power-bi
 
 
+https://www.linkedin.com/posts/lata-saha-58175518b_powerbi-dataanalytics-businessintelligence-ugcPost-7467666052722651136-IUKn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzIffEBkjuZKKvy8JVsVNgP6G_kq-8g-14
+
+
 
   
 
